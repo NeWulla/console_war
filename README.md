@@ -1,6 +1,7 @@
 Console war game
 
-/*
+
+
 * [RUS]
 * 
 * Игра без смысла, простая демонстрация некоторых специфик
@@ -16,10 +17,9 @@ Console war game
 * Исходный код программы открыт и распрастраняется без авторсокго права.
 * 
 * Спасибо за внимание!
-* 
-*/
 
-/*
+
+
 * [ENG]
 *
 * A game without meaning, a simple demonstration of some specifics
@@ -35,5 +35,3 @@ Console war game
 * The source code of the program is open and distributed without copyright.
 *
 * Thanks for your attention!
-*
-*/
